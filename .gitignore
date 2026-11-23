@@ -1,0 +1,9 @@
+.cpcache/
+.classpath
+.project
+.idea/
+*.iml
+target/
+.DS_Store
+.clj-kondo
+.lsp
